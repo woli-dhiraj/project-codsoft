@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Who won the FIFA World Cup 2018?",
+    "answerOptions": [
+      { "option": "Brazil", "isCorrect": false },
+      { "option": "Germany", "isCorrect": false },
+      { "option": "France", "isCorrect": true },
+      { "option": "Argentina", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which footballer is known as 'CR7'?",
+    "answerOptions": [
+      { "option": "Lionel Messi", "isCorrect": false },
+      { "option": "Cristiano Ronaldo", "isCorrect": true },
+      { "option": "Neymar", "isCorrect": false },
+      { "option": "Kylian Mbappe", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which country has won the most FIFA World Cups?",
+    "answerOptions": [
+      { "option": "Germany", "isCorrect": false },
+      { "option": "Italy", "isCorrect": false },
+      { "option": "Brazil", "isCorrect": true },
+      { "option": "Argentina", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Who is the captain of the Straw Hat Pirates?",
+    "answerOptions": [
+      { "option": "Zoro", "isCorrect": false },
+      { "option": "Sanji", "isCorrect": false },
+      { "option": "Luffy", "isCorrect": true },
+      { "option": "Nami", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "In Naruto, who is known as the Copy Ninja?",
+    "answerOptions": [
+      { "option": "Itachi Uchiha", "isCorrect": false },
+      { "option": "Kakashi Hatake", "isCorrect": true },
+      { "option": "Jiraiya", "isCorrect": false },
+      { "option": "Sasuke Uchiha", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which anime features the Death Note?",
+    "answerOptions": [
+      { "option": "Bleach", "isCorrect": false },
+      { "option": "Attack on Titan", "isCorrect": false },
+      { "option": "Death Note", "isCorrect": true },
+      { "option": "Tokyo Ghoul", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Who directed the movie 'Inception'?",
+    "answerOptions": [
+      { "option": "Steven Spielberg", "isCorrect": false },
+      { "option": "Christopher Nolan", "isCorrect": true },
+      { "option": "James Cameron", "isCorrect": false },
+      { "option": "Martin Scorsese", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which movie features the character Iron Man?",
+    "answerOptions": [
+      { "option": "Justice League", "isCorrect": false },
+      { "option": "Avengers", "isCorrect": true },
+      { "option": "X-Men", "isCorrect": false },
+      { "option": "Fantastic Four", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the capital of India?",
+    "answerOptions": [
+      { "option": "Mumbai", "isCorrect": false },
+      { "option": "New Delhi", "isCorrect": true },
+      { "option": "Chennai", "isCorrect": false },
+      { "option": "Kolkata", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answerOptions": [
+      { "option": "Venus", "isCorrect": false },
+      { "option": "Mars", "isCorrect": true },
+      { "option": "Jupiter", "isCorrect": false },
+      { "option": "Saturn", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which country hosted the FIFA World Cup 2022?",
+    "answerOptions": [
+      { "option": "Russia", "isCorrect": false },
+      { "option": "Qatar", "isCorrect": true },
+      { "option": "USA", "isCorrect": false },
+      { "option": "France", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which anime character uses a sword named Zangetsu?",
+    "answerOptions": [
+      { "option": "Naruto", "isCorrect": false },
+      { "option": "Ichigo", "isCorrect": true },
+      { "option": "Goku", "isCorrect": false },
+      { "option": "Luffy", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Who won the Ballon d'Or 2023?",
+    "answerOptions": [
+      { "option": "Erling Haaland", "isCorrect": false },
+      { "option": "Lionel Messi", "isCorrect": true },
+      { "option": "Kylian Mbappe", "isCorrect": false },
+      { "option": "Cristiano Ronaldo", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which anime is based on demons and slayers?",
+    "answerOptions": [
+      { "option": "Bleach", "isCorrect": false },
+      { "option": "Demon Slayer", "isCorrect": true },
+      { "option": "Naruto", "isCorrect": false },
+      { "option": "Jujutsu Kaisen", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which movie won the Oscar for Best Picture in 2020?",
+    "answerOptions": [
+      { "option": "1917", "isCorrect": false },
+      { "option": "Parasite", "isCorrect": true },
+      { "option": "Joker", "isCorrect": false },
+      { "option": "Once Upon a Time in Hollywood", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which gas do plants absorb during photosynthesis?",
+    "answerOptions": [
+      { "option": "Oxygen", "isCorrect": false },
+      { "option": "Carbon Dioxide", "isCorrect": true },
+      { "option": "Nitrogen", "isCorrect": false },
+      { "option": "Hydrogen", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Who is the founder of Microsoft?",
+    "answerOptions": [
+      { "option": "Steve Jobs", "isCorrect": false },
+      { "option": "Bill Gates", "isCorrect": true },
+      { "option": "Elon Musk", "isCorrect": false },
+      { "option": "Mark Zuckerberg", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which superhero is known as the Dark Knight?",
+    "answerOptions": [
+      { "option": "Superman", "isCorrect": false },
+      { "option": "Batman", "isCorrect": true },
+      { "option": "Iron Man", "isCorrect": false },
+      { "option": "Flash", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the hardest natural substance?",
+    "answerOptions": [
+      { "option": "Gold", "isCorrect": false },
+      { "option": "Iron", "isCorrect": false },
+      { "option": "Diamond", "isCorrect": true },
+      { "option": "Silver", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "Which anime features alchemy?",
+    "answerOptions": [
+      { "option": "Black Clover", "isCorrect": false },
+      { "option": "Fullmetal Alchemist", "isCorrect": true },
+      { "option": "Fairy Tail", "isCorrect": false },
+      { "option": "Bleach", "isCorrect": false }
+    ]
+  }
+]
